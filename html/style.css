@@ -1,0 +1,17 @@
+body {
+    padding-top: 56px;
+}
+
+footer {
+    background-color: #86c289;
+    padding: 20px 0;
+}
+
+.jumbotron {
+    background-color: #5a3ddf;
+    padding: 2rem 1rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
